@@ -1,0 +1,35 @@
+- company: Apple Inc.
+  roles:
+    - role: Mac+ Senior Advisor
+      details: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+      date: 10.2020 -  Present
+
+- company: Colorado State University - Pueblo
+  page: 1
+  roles: 
+    - role: Cybersecurity Intern
+      tools: Nessus, Metasploit, Kali Linux
+      details: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+        Aenean nec volutpat arcu. Maecenas quis tempus risus.
+      date: 06.2019 - 10.2020
+    
+    - role: IT Help Desk Agent
+      tools: TeamViewer, Remote Desktop, Active Directory
+      date: 10.2018 - 06.2019
+      details: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+        Aenean nec volutpat arcu. Maecenas quis tempus risus.
+
+- company: Sport Chalet
+  page: 1
+  roles:
+    - role: Bicycle Mechanic
+      details: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+      date: 2017 - 2018
