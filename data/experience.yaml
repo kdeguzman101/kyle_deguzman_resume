@@ -1,35 +1,32 @@
-- company: Apple Inc.
-  roles:
-    - role: Mac+ Senior Advisor
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 10.2020 -  Present
-
 - company: Colorado State University - Pueblo
   page: 1
   roles: 
     - role: Cybersecurity Intern
       tools: Nessus, Metasploit, Kali Linux
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
-      date: 06.2019 - 10.2020
+        Monitored network traffic and vulnerabilities utilizing tools such as Darktrace, Cisco Umbrella,
+        Nessus, etc.
+      date: 05.2023 - 07.2024
     
     - role: IT Help Desk Agent
       tools: TeamViewer, Remote Desktop, Active Directory
-      date: 10.2018 - 06.2019
+      date: 01.2023 - 07.2024
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
+        Provided technical customer service support regarding computer hardware, software, and
+        network connectivity.
 
-- company: Sport Chalet
+- company: Apple Inc.
+  roles:
+    - role: Mac+ Senior Advisor
+      details: |
+        Provided technical assistance to Apple customers as well as lower-level AppleCare advisors.
+      date: 5.2017 -  12.2018
+
+- company: Starbucks Coffee Company
   page: 1
   roles:
-    - role: Bicycle Mechanic
+    - role: Shift Supervisor
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 2017 - 2018
+        Monitored and managed daily operations, ensuring a high level of customer service and satisfaction.
+        Trained and supervised new staff members, fostering a positive and efficient work environment.
+      date: 2012 - 2022

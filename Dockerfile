@@ -4,4 +4,3 @@ COPY . /src
 
 # Build site.
 RUN hugo --minify 
-

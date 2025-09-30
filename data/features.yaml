@@ -11,30 +11,27 @@ about:
       url: https://github.com/kdeguzman101/
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
+    Currently pursing my Master's in Management Information Systems as an AZSecure CyberCorps Scholarship-for-Service Fellow. I am also conducting AI research to identify and classify vulnerabilities within the drone space.
 
 
 skills:
   - groupName: Databases & Visualization
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - Tableau - MySQL - Oracle
 
   - groupName: Data Analysis & Analytics
     list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+      - Python - SQL - Excel
 
   - groupName: Programming & Systems
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+      - Python - Git - Docker - HTML
+      - macOS - Windows - Linux
 
 interests:
-  - Data Science
+  - Network Administration
   - AI Applications
+  - Cybersecurity
   - Optimization Problems
 
 languages:
@@ -46,29 +43,30 @@ languages:
 
 # This will use the default widget: "details-list"
 awards:
-  - title: "Tübitak - Graduation Project"
-    date: "2017"
-    subtitle: "A Decision Support System for 3D Cutting Problem"
+  - title: "Scholarship for Service (SFS) CyberCorps Fellowship"
+    date: "2024"
+    # subtitle: "A Decision Support System for 3D Cutting Problem"
     #details: |
     #   - add more here if you like to.
     #   - or just comment out/delete the field.
     links:
-      - title: example
-        url: https://mertbakir.gitlab.io
-        icon: fas fa-bolt
-        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
-      - title: second link.
-        url: https://esdfdsfdsf
-        icon: "-" # you can get rid of the icon by entering dummy text
-        prefix: "omg"
+      - title: People of the AI Lab
+        url: https://eller.arizona.edu/person/kyle-deguzman
+        icon: fas fa-globe
+        # prefix: "This is an " # use quotation marks if you want to pass the tailing space.
 
 certificates:
-  - title: "Supervised Learning: Regression"
+  - title: "Introduction to Deep Learning & Neural Networks with Keras"
     subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
+    date: "2024"
+    link: https://www.coursera.org/learn/introduction-to-deep-learning-with-keras/ # This link will be on title level.
 
-  - title: "Supervised Learning: Classification"
+  - title: "Introductions to Computer Vision and Image Processing"
     subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+    date: "2024"
+    link: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv/
+
+  - title: "Machine Learning with Python"
+    subtitle: Coursera
+    date: "2024"
+    link: https://www.coursera.org/learn/machine-learning-with-python/

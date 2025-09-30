@@ -55,7 +55,7 @@ params:
     avatar: avatar.jpg
     contact: true
     tagline: true
-    links: true
+    links: false
   side:
     - feature: languages
     - feature: skills
@@ -70,11 +70,9 @@ params:
         - feature: about
           title: About Me
         - feature: experience
-    - features:
-        # - feature: experience
-        #   title: Experience (Cont.)
         - feature: projects
           collection: projects
+    - features:
         - feature: awards
         - feature: certificates
           title: Certifications

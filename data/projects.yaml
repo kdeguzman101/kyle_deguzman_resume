@@ -1,17 +1,6 @@
 projects:
-- title: "Simulated Annealing for Traveling Salesman Problem"
-  subtitle: "Some University"
-  date: "2016"
+- title: "Mapping Vulnerabilities in UASs to the MITRE ATT&CK Framework"
+  subtitle: "AZ Secure Lab (University of Arizona)"
+  date: "Aug. 2024 - Present"
   details: |
-    Lorem ipsum dolor sit amet
-
-- title: "Resume - A4"
-  subtitle: "mertbakir.gitlab.io/resume"
-  link: "https://gitlab.com/mertbakir/resume-a4"
-  date: "2020"
-  details: |
-    Bring CI/CD to your resume using YAML and Git."
-  links:
-  - title: Available in GitLab
-    url: https://gitlab.com/mertbakir/resume-a4
-    icon: fab fa-gitlab
+    Currently conducting research that involves using AI to map software vulnerabilities in Unmanned Aerial Systems (UASs) to the MITRE ATT&CK framework.
