@@ -94,7 +94,7 @@ params:
         
   footer:
     show: true
-    credits: true
+    credits: false
     footnote: >-
       You can print this resume in A4 size or save as pdf. | Last update on 2025-09-29.
     links:

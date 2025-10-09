@@ -1,0 +1,6 @@
+[submodule "kyle-resume/themes/resume-a4"]
+	path = kyle-resume/themes/resume-a4
+	url = https://github.com/mertbakir/resume-a4.git
+[submodule "themes/resume-a4"]
+	path = themes/resume-a4
+	url = https://github.com/mertbakir/resume-a4.git
